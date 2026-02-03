@@ -34,7 +34,7 @@ export function Footer() {
           <p className="text-sm text-muted-foreground text-center">
             API yang digunakan:{" "}
             <a 
-                  href="<script src="https://pl21252333.effectivegatecpm.com/9f/dc/65/9fdc659ae8f411840c711ecf34b1a8f2.js"></script>" 
+                  href="https://pl21252333.effectivegatecpm.com/9f/dc/65/9fdc659ae8f411840c711ecf34b1a8f2.js" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-primary transition-colors inline-flex items-center gap-1 text-primary hover:underline font-semibold"
